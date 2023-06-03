@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 echo "echo \"  \"" >> env_SWIG_BALTIK.sh
 echo "echo \"   _____  _    _ _____ _____   ______  ___   _    _____ _____ _   __   \" " >> env_SWIG_BALTIK.sh
 echo "echo \"  /  ___|| |  | |_   _|  __ \  | ___ \/ _ \ | |  |_   _|_   _| | / /    \" " >> env_SWIG_BALTIK.sh
